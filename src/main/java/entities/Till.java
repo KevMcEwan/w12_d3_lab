@@ -1,3 +1,5 @@
+package entities;
+
 public class Till {
 	double Amount;
 

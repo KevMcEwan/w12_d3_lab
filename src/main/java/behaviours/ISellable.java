@@ -1,5 +1,8 @@
 package behaviours;
 
+import entities.Customer;
+import entities.Vehicle;
+
 public interface ISellable {
 
 	public double sellPrice(Customer customer, Vehicle vehicle);

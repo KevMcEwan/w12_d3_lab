@@ -1,4 +1,6 @@
-public class Customer {
+package entities;
+
+public class Customer  {
 	private String name;
 	private double budget;
 
